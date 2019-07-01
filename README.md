@@ -3,6 +3,7 @@ SMM284 Applied Machine Learning Coursework submission which explores the impleme
 
 ## Exploration of step size effect on Plain Vanilla Gradient Descend
 
+![](images/pv_stepsize.png)
 
 | **Step Size** | Large | Medium | Small |
 |---------------|-------|--------|-------|
